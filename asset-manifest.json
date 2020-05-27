@@ -1,22 +1,31 @@
 {
   "files": {
     "main.css": "/Portafolio/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Portafolio/static/js/main.c9f29415.chunk.js",
-    "main.js.map": "/Portafolio/static/js/main.c9f29415.chunk.js.map",
+    "main.js": "/Portafolio/static/js/main.0189f61d.chunk.js",
+    "main.js.map": "/Portafolio/static/js/main.0189f61d.chunk.js.map",
     "runtime-main.js": "/Portafolio/static/js/runtime-main.58444507.js",
     "runtime-main.js.map": "/Portafolio/static/js/runtime-main.58444507.js.map",
-    "static/js/2.2a1f0b17.chunk.js": "/Portafolio/static/js/2.2a1f0b17.chunk.js",
-    "static/js/2.2a1f0b17.chunk.js.map": "/Portafolio/static/js/2.2a1f0b17.chunk.js.map",
+    "static/js/2.197f6df8.chunk.js": "/Portafolio/static/js/2.197f6df8.chunk.js",
+    "static/js/2.197f6df8.chunk.js.map": "/Portafolio/static/js/2.197f6df8.chunk.js.map",
     "index.html": "/Portafolio/index.html",
-    "precache-manifest.62dd816b4a8b07399edd7638a9c6a8fd.js": "/Portafolio/precache-manifest.62dd816b4a8b07399edd7638a9c6a8fd.js",
+    "precache-manifest.faf1a04c678a652ba8e823cadbe2f963.js": "/Portafolio/precache-manifest.faf1a04c678a652ba8e823cadbe2f963.js",
     "service-worker.js": "/Portafolio/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/Portafolio/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.2a1f0b17.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.2a1f0b17.chunk.js.LICENSE.txt"
+    "static/js/2.197f6df8.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.197f6df8.chunk.js.LICENSE.txt",
+    "static/media/Clima.jpg": "/Portafolio/static/media/Clima.c2418bf0.jpg",
+    "static/media/CotizadorSeguros.jpg": "/Portafolio/static/media/CotizadorSeguros.50142ef2.jpg",
+    "static/media/Eventos.jpg": "/Portafolio/static/media/Eventos.7c98c4e2.jpg",
+    "static/media/GastoSemanal.jpg": "/Portafolio/static/media/GastoSemanal.ef81615f.jpg",
+    "static/media/Imagenes.jpg": "/Portafolio/static/media/Imagenes.34fc0350.jpg",
+    "static/media/Noticias.jpg": "/Portafolio/static/media/Noticias.b9b6a96b.jpg",
+    "static/media/PacienteVeterinaria.jpg": "/Portafolio/static/media/PacienteVeterinaria.df8c5bc2.jpg",
+    "static/media/profilepic.jpg": "/Portafolio/static/media/profilepic.1265cfa3.jpg",
+    "static/media/store.jpg": "/Portafolio/static/media/store.54f208b4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.58444507.js",
-    "static/js/2.2a1f0b17.chunk.js",
+    "static/js/2.197f6df8.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.c9f29415.chunk.js"
+    "static/js/main.0189f61d.chunk.js"
   ]
 }
