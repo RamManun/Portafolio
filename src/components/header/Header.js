@@ -24,7 +24,7 @@ class Header extends Component {
                     <div class="banner-text">
                         <h1 class="responsive-headline">Yo soy Ramces Manun.</h1>
                         <h3>Soy Programador <span>Desarrollador Web</span> creador de aplicaciones
-                        web y aplicaciones nativas para android y IOS <a class="smoothscroll" href="#about">puedes bajar un poco</a>
+                        web y aplicaciones nativas para android<a class="smoothscroll" href="#about">puedes bajar un poco</a>
                         y leer un poco mas <a class="smoothscroll" href="#about"> sobre mi</a>.</h3>
                         <hr />
                         <ul class="social">

@@ -10,7 +10,7 @@ export default class About extends Component {
                     </div>      
                     <div class="nine columns main-col">      
                         <h2>Sobre mi</h2>      
-                        <p>Soy un joven de 22, vivo en Honduras en el departamento de Cortes me gusta la programacion tanto de aplicaciones para windows,
+                        <p>Soy un joven de 24, vivo en Honduras en el departamento de Cortes me gusta la programacion tanto de aplicaciones para windows,
                         aplicaciones web y aplicaciones nativas para android y ios, uso distintos lenguajes de progrmacion como lo es Java, C# y actualemte
                         JavaScript para aplicaciones web y .Net, me gusta la programacion porque me apaciona el hecho de saber que contribuyo al futuro de
                         las tecnologias y asi ayudar a mejorar el presente.
@@ -23,8 +23,8 @@ export default class About extends Component {
                                         <span>Res. Las cascadas<br></br>
                                             Choloma, Cortes, Honduras
                                         </span><br></br>
-                                        <span>+504 32923325</span><br></br>
-                                <span>Ramces12@gmail.com</span>
+                                        <span>+504 9695-5014</span><br></br>
+                                <span>ramces12@gmail.com</span>
                                     </p>      
                             </div>      
                             <div class="columns download">

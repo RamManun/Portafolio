@@ -56,7 +56,7 @@ class Contact extends Component {
                                     Ramces Manun<br></br>
                                     Res. Las Cascadas Zona A <br></br>
                                     Choloma, Cortes, Honduras<br></br>
-                                    <span>+504 32923325</span>
+                                    <span>+504 9695-5014</span>
                                 </p>
                             </div>
                         </aside>
